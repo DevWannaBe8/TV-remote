@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "TV Remote",
+    "slug": "tv-remote",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": false,
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.local.tvremote",
+      "permissions": ["INTERNET", "ACCESS_NETWORK_STATE", "ACCESS_WIFI_STATE"]
+    },
+    "plugins": [],
+    "extra": {
+      "eas": {
+        "projectId": "277df101-c65a-430c-9b77-b832ff2cb409"
+      }
+    }
+  }
+}
